@@ -1,0 +1,36 @@
+.Header {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Header__logo {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.Header__logo span {
+    color: #E9B839;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.profile__avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+}
+
+.profile__name {
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
