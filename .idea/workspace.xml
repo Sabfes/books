@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fea1585d-0bf4-4ffa-a946-88ec12de5397" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useTypedSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AllBooks/AllBooks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AllBooks/AllBooks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/BooksProfile/BooksProfile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/BooksProfile/BooksProfile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFoundPage/NotFoundPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFoundPage/NotFoundPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProfilePage/ProfilePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProfilePage/ProfilePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Read/Read.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Read/Read.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ReadLater/ReadLater.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ReadLater/ReadLater.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/ProfileReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/booksReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/types/books.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/types/profile.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rzlMuSnlMW8aCrb25kFh24VEJ9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="C:\Users\Денис\Desktop\JS\app-books\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Денис\Desktop\JS\app-books\src\redux\reducers" />
+      <recent name="C:\Users\Денис\Desktop\JS\app-books\src\pages" />
+      <recent name="C:\Users\Денис\Desktop\JS\app-books\src\components\App" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fea1585d-0bf4-4ffa-a946-88ec12de5397" name="Default Changelist" comment="" />
+      <created>1619986755252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619986755252</updated>
+      <workItem from="1619986756535" duration="437000" />
+      <workItem from="1620062721625" duration="12252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620074250372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1620074250372" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620069764234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620069764234" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620063291536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620063291536" />
+  </component>
+</project>

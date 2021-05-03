@@ -1,0 +1,25 @@
+.Navbar {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.Navbar__title {
+    font-size: 22px;
+}
+
+.Navbar__links {
+    display: flex;
+    flex-direction: column;
+}
+
+.Navbar__link {
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.Navbar__link:hover {
+    color: grey;
+}
