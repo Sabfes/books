@@ -1,5 +1,5 @@
 import React from "react"
-import './ProfilePage'
+import './ProfilePage.css'
 import {useTypedSelector} from "../../hooks/useTypedSelector";
 
 const ProfilePage = () => {
@@ -7,7 +7,7 @@ const ProfilePage = () => {
 
     return <div className="ProfilePage">
         <img src={profileAvatarSrc} alt="avatar" height="400px"/>
-        <h1>{name}</h1>
+        <span className="ProfilePage__name">{name}</span>
     </div>
 }
 

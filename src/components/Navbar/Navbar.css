@@ -1,12 +1,18 @@
 .Navbar {
-    padding: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    min-width: 200px;
+    padding-bottom: 40px;
     display: flex;
     flex-direction: column;
     min-height: 100%;
 }
 
 .Navbar__title {
-    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .Navbar__links {
@@ -15,9 +21,10 @@
 }
 
 .Navbar__link {
-    margin-top: 15px;
-    font-size: 16px;
-    font-weight: 400;
+    margin-left: 4px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 300;
 }
 
 .Navbar__link:hover {

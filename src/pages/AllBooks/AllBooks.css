@@ -1,3 +1,20 @@
 .AllBooks {
 
 }
+
+.SearchInput {
+    margin: 40px;
+    border: none;
+    border-bottom: 1px solid #bebebe;
+    outline: none;
+    cursor: pointer;
+    padding: 5px;
+    color: #bebebe;
+    font-size: 26px;
+    width: 200px;
+}
+
+
+.SearchInput:hover {
+    border-bottom: 1px solid black;
+}

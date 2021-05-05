@@ -1,10 +1,9 @@
 .Card {
     background-size: cover;
     background-position: center;
-    background-image: url('https://skidka-voronezh.ru/images/prodacts/sourse/61778/61778589_portret-doriana-greya-ast.jpg');
     cursor: pointer;
     position: relative;
-    width: 130px;
+    width: 140px;
     height: 200px;
     display: flex;
     justify-content: center;
@@ -30,9 +29,14 @@
     margin-top: 3px;
     text-align: center;
     font-size: 14px;
+    color: darkgrey;
 }
 
 .Card:hover {
     transform: scale(1.1);
 }
 
+.Card__rating {
+    color: #E9B839;
+    font-size: 16px;
+}

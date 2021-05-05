@@ -3,7 +3,7 @@ import {booksReducer} from "./booksReducer";
 import {ProfileReducer} from "./ProfileReducer";
 
 export const rootReducer = combineReducers({
-    bookReducer: booksReducer,
+    books: booksReducer,
     profile: ProfileReducer,
 })
 

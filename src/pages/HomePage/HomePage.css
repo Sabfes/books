@@ -1,7 +1,7 @@
 .HomePage {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .HomePage__title {
@@ -23,4 +23,10 @@
     justify-content: space-around;
     width: 90%;
     display: flex;
+}
+
+.HomePage__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 40px;
 }

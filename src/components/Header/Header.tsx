@@ -7,7 +7,7 @@ const Header: React.FC = () => {
     const {profileAvatarSrc, name} = useTypedSelector( state => state.profile)
 
     return <div className="Header">
-        <NavLink to="/" className="Header__logo link">BOOK<span>S</span>TORE.</NavLink>
+        <div className="Header__logo link">BOOK<span>S</span>TORAGE.</div>
 
         <NavLink to="/profile" className="profile link">
             <img

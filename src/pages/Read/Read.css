@@ -5,6 +5,12 @@
     align-items: center;
 }
 
+.Read__title {
+    margin-bottom: 40px;
+    font-weight: 300;
+    font-size: 24px;
+}
+
 .Read__container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;

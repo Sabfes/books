@@ -1,3 +1,59 @@
 .BooksProfile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.Books__title {
+    font-weight: 300;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.info-item {
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.Books__info {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.Books__container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Books__img {
+    width: 600px;
+    height: 800px;
+}
+
+.Books__btn {
+    width: 120px;
+    outline: none;
+    background: #fff;
+    border: 1px solid black;
+    cursor: pointer;
+    height: 40px;
+    margin-right: 10px;
+    transition: 1s;
+    box-shadow: none;
+}
+
+.Books__btn:hover {
+    transform: scale(1.02);
+}
+
+.Books__desc {
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 40px;
+    padding-right: 30px;
 }
